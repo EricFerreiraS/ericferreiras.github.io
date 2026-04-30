@@ -1,7 +1,7 @@
 ---
 title: "Towards understanding deep representations in CNN: from concepts to relations extraction via knowledge graphs"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-12-09-towards-understanding-deep-representations-in-cnn
 excerpt: 'A study on understanding deep representations in CNNs through concept and relation extraction using knowledge graphs.'
 date: 2024-12-09
