@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-teaching-BI
 venue: "Institute of Business and Technology (IBAT)"
-date: 2022-09
+date: 2022-09-01
 location: "Dublin, Ireland"
 ---
 
