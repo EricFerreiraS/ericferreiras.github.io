@@ -1,7 +1,7 @@
 ---
 title: "Pattern identification of bot messages for media literacy"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-01-01-pattern-identification-of-bot-messages-for-media-literacy
 excerpt: 'This paper investigates the identification of bot messages to support media literacy.'
 date: 2021-01-01
