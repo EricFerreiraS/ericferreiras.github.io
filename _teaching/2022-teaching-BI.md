@@ -16,5 +16,4 @@ The teaching emphasises both conceptual understanding and practical application.
 and the transformation of raw data into meaningful business knowledge. The module also considers the relationship between business intelligence, information systems, and organisational decision processes,
 enabling students to critically assess how analytical approaches can be used to support evidence-based practice.
 
-By the end of the module, students are expected to have developed an understanding of the main frameworks and tools used in business intelligence, as well as the ability to interpret and 
-communicate data in a business context. The module provides a foundation for further study in data analytics, management information systems, and related areas of digital business transformation.
+The module provides a foundation for further study in data analytics, management information systems, and related areas of digital business transformation.
