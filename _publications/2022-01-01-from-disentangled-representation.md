@@ -1,7 +1,7 @@
 ---
 title: "From disentangled representation to concept ranking: Interpreting deep representations in image classification tasks"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-01-01-from-disentangled-representation-to-concept-ranking
 excerpt: 'This paper studies concept ranking and the interpretation of deep representations in image classification tasks.'
 date: 2022-01-01
