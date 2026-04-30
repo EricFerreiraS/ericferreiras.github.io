@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Eric Ferreira dos Santos"
 title_separator          : "-"
 name                     : &name "Eric Ferreira dos Santos"
-description              : &description "Postdoctoral Research in XAI at Insight@DCU"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Postdoctoral Researcher in XAI at Insight@DCU"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ericferreiras.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "EricFerreiraS/ericferreiras.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Eric Ferreira dos Santos"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI Researcher"
+  location         : "Dublin - Ireland"
+  employer         : "Dublin City University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eric.santos@dcu.ie" 
 
   # Academic websites
   academia         : # URL
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "eric_ferreira"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
